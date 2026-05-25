@@ -16,3 +16,4 @@
 /Users/mac/Downloads/ElectronicDeanery/UI/obj/Debug/net8.0/UI.pdb
 /Users/mac/Downloads/ElectronicDeanery/UI/obj/Debug/net8.0/UI.genruntimeconfig.cache
 /Users/mac/Downloads/ElectronicDeanery/UI/obj/Debug/net8.0/ref/UI.dll
+/Users/mac/Downloads/ElectronicDeanery/UI/obj/Debug/net8.0/UI.sourcelink.json

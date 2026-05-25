@@ -111,7 +111,7 @@ namespace ElectronicDeanery.UI
             deanery.RemoveGroup(groupIK51);
             Console.WriteLine("  Залишилося груп: " + deanery.Groups.Count);
             Console.WriteLine($"  Студент {s6.LastName} досі існує: {s6.GetInfo()}");
-            
+
             // обробкa виключень
             Console.WriteLine("\nОбробка виключень:");
             try
@@ -140,11 +140,6 @@ namespace ElectronicDeanery.UI
             {
                 Console.WriteLine("  Помилка! " + ex.Message);
             }
-
-            // поліморфізм
-            Console.WriteLine("\n(Person -> Student)");
-            Person person = s1; // звертаємось як до Person
-            Console.WriteLine("  Виклик GetInfo() через посилання Person: " + person.GetInfo());
         }
     }
 }
